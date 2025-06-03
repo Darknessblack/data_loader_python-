@@ -1,6 +1,6 @@
 # My Data Loader
 
-Este proyecto en Python permite cargar, validar y almacenar datos desde archivos `.csv`, `.json`, `.xlsx` y `.txt` en una base de datos SQLite, utilizando los principios de la programación orientada a objetos.
+Este proyecto en Python permite cargar, validar y almacenar datos desde archivos `.csv` y `.json` en una base de datos SQLite, utilizando los principios de la programación orientada a objetos.
 
 ## 🧱 Estructura del proyecto
 
